@@ -1,8 +1,10 @@
 ## MONIKA MOŻDŻEŃ PORTFOLIO WEBSITE
 
 Repository with the source code of a project I implemented for Monika Możdżeń, Warsaw-based interior designer.
-Design by Natalia Możdżeń.
-Project dating back to 2021 (with slight tweaks in 2022), developed with getting maximum Lighthouse score in mind.
+
+## Why is it here? 
+In this project, the elegant and understated visual design is mirrored by the lightweight implementation, with minimal JS use (and maximum Lighthouse score in mind).
+I am really proud of few visual tricks (such as asymmetric logo placement resulting in an illusion of symmetry) that I was able to get into the final design.
 
 ##### **Stack:**
 ##### Bootstrap 5, minimum JavaScript

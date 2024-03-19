@@ -1,6 +1,6 @@
 ## MONIKA MOŻDŻEŃ PORTFOLIO WEBSITE
 
-Repository with the source code of a project I implemented for Monika Możdżeń, Warsaw-based interior designer.
+Repository with the source code of a project I implemented for Monika Możdżeń, Warsaw-based interior designer (shared with Cilent's permission).
 
 ## Why is it here? 
 In this project, the elegant and understated visual design is mirrored by the lightweight implementation, with minimal JS use (and maximum Lighthouse score in mind).
